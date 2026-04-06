@@ -1,6 +1,6 @@
 # Hi there, I'm Gauresh Kapoor 👋
  
-AI, product, and engineering.
+AI, data, product, and engineering.
  
 ## About Me
  
