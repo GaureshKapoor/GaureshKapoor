@@ -10,10 +10,12 @@ Outside of that, I build full-stack AI products from zero to one.
  
 ## What I'm Building
  
-**Vault** is an agentic AI platform for ideation, task-planning, and execution.
+**Vault** is an agentic AI platform for ideation, task-planning, and execution. Currently in Beta. Available soon!
+
+**Wist Health** is a B2B mental-health AI platform built under the Larta Heal.LA accelerator. Available on Web and iOS App Store.
  
-**Ionava** is a financial health and wellness platform backed by angel investors.
- 
+**Ionava** is a financial health and wellness platform backed by angel investors. 
+
 ## Connect
  
 - Website: **[gaureshkapoor.com](https://gaureshkapoor.com)**
