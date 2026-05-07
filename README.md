@@ -4,11 +4,12 @@ AI, data, product, and engineering.
  
 ## About Me
  
-I currently work in AI & Data Solutions at **PwC Deals**, within the Technology & Data practice. My day-to-day ranges from architecting agentic workflows and building AI-powered tools, to shaping product direction and working directly with Fortune 500 and PE clients across M&A tech diligence and enterprise analytics.
+I currently work in AI & Data Solutions at **PwC Deals**, within the Technology & Data practice.
+At PwC, I ship AI-native products, data systems, and automation tools across M&A tech diligence and enterprise analytics. My day-to-day spans architecting agentic workflows, to developing AI-powered platforms and pipelines, and shaping product direction directly with Fortune 500 clients and PE-backed companies.
  
 Previously, I built GenAI products at **Zeta Global** and worked on FinTech product strategy at **Clear**.
  
-Outside of that, I build full-stack AI products from zero to one.
+Outside of that, I build full-stack AI products and apps from zero to one.
  
 ## What I'm Building
  
@@ -20,12 +21,9 @@ Outside of that, I build full-stack AI products from zero to one.
  
 ## Connect
 
-
 - Website: **[gaureshkapoor.com](https://gaureshkapoor.com)**
 - [LinkedIn](https://linkedin.com/in/gaureshkapoor)
 - [Email](mailto:gaureshkapoor@gmail.com)
- 
-
  
 [![Website](https://img.shields.io/badge/Website-gaureshkapoor.com-000?style=flat-square)](https://gaureshkapoor.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gauresh%20Kapoor-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaureshkapoor)
