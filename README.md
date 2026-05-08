@@ -1,6 +1,6 @@
 # Hi there, I'm Gauresh Kapoor 👋
  
-AI, data, product, and engineering.
+AI, data, product, and engineering. Equal parts engineer and operator.
  
 ## About Me
  
