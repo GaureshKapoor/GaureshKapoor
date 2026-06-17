@@ -8,7 +8,7 @@ AI, data, product, and business. Equal parts engineer and operator.
 
 ---
 
-## About Me
+## 🧠 About Me
  
 I currently work in AI & Data Solutions at **PwC Deals**, within the Technology & Data practice.
 At PwC, I ship AI-native products, data systems, and automation tools across M&A tech diligence and enterprise analytics. My day-to-day spans AI strategy, agentic product development, data engineering, and on-prem client delivery, partnering directly with Fortune 500 clients and PE-backed companies to solve complex operational and technical challenges.
@@ -19,12 +19,14 @@ Outside of that, I build full-stack AI products and apps from zero to one.
 
 ---
 
-## What I've Built
+## 🚀 What I've Built
  
 - **[Vault](https://joinvault.app)** — agentic AI platform for ideation, task-planning & execution. *Aavailable now!*
 - **[Wist Health](https://www.wist.health)** — B2B mental-health AI built under the **Larta Heal.LA** accelerator. *Live on the iOS App Store* 📱
 - **[Ionava](https://gaureshkapoor.com)** — financial health & wellness platform, *backed by angel investors* 💸
- 
+
+(and more!)
+
 ---
 
 ## 🧰 Tech I Build With
