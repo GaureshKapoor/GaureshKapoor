@@ -1,6 +1,6 @@
 # Hi there, I'm Gauresh Kapoor 👋
  
-AI, data, product, and business. Equal parts engineer and operator.
+Equal parts engineer and operator, I build AI products at the intersection of data and business, and enjoy owning the full product lifecycle. I am curious, ambitious, constantly learning, and obsessed with building what's next.
 
 [![Website](https://img.shields.io/badge/Website-gaureshkapoor.com-111111?style=for-the-badge&logo=safari&logoColor=white)](https://gaureshkapoor.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaureshkapoor)
@@ -9,14 +9,15 @@ AI, data, product, and business. Equal parts engineer and operator.
 ---
 
 ## 🧠 About Me
- 
+
 I currently work in AI & Data Solutions at **PwC Deals**, within the Technology & Data practice.
-At PwC, I ship AI-native products, data systems, and automation tools across M&A tech diligence and enterprise analytics. My day-to-day spans AI strategy, agentic product development, data engineering, and on-prem client delivery, partnering directly with Fortune 500 clients and PE-backed companies to solve complex operational and technical challenges.
+At PwC, I ship production AI-native products (LLM platforms, agentic workflows, data pipelines) and automation tools across M&A tech diligence and enterprise analytics. My day-to-day spans AI strategy, agentic product development, data engineering, and on-prem client delivery, partnering directly with Fortune 500 clients and PE-backed companies to solve complex operational and technical challenges, and drive measurable business impact.
  
 Previously, I built GenAI products at **Zeta Global** and worked on FinTech product strategy at **Clear**.
  
 Outside of that, I build full-stack AI products and apps from zero to one.
 
+I studied Statistics & Data Science and Business Economics at UCLA.
 ---
 
 ## 🚀 What I've Built
