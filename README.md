@@ -18,6 +18,7 @@ Previously, I built GenAI products at **Zeta Global** and worked on FinTech prod
 Outside of that, I build full-stack AI products and apps from zero to one.
 
 I studied Statistics & Data Science and Business Economics at UCLA.
+
 ---
 
 ## 🚀 What I've Built
